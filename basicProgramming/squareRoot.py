@@ -1,5 +1,5 @@
 def calculate_square_root(num):
-    return num * num
+    return num ** 0.5
 
 
 num = int(input("Enter the number: "))
